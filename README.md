@@ -1,2 +1,2 @@
-# React-Projects
+# React Projects
 A collection of react projects.
